@@ -19,7 +19,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-padberg-43a3b5405/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MPADBERG@my.lonestar.edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteopadberg0@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://MPadberg-svg.github.io)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16452027558)
 
@@ -253,7 +253,7 @@
 
 | | Contact |
 |--|--|
-| 📧 | [MPADBERG@my.lonestar.edu](mailto:MPADBERG@my.lonestar.edu) |
+| 📧 | [matteopadberg0@gmail.com](mailto:MPADBERG@my.lonestar.edu) |
 | 💼 | [linkedin.com/in/matteo-padberg-43a3b5405](https://www.linkedin.com/in/matteo-padberg-43a3b5405/) |
 | 🌐 | [MPadberg-svg.github.io](https://MPadberg-svg.github.io) |
 | 📱 | [+1 (645) 202-7558](tel:+16452027558) |
