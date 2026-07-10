@@ -254,7 +254,7 @@
 | | Contact |
 |--|--|
 | 📧 | [matteopadberg0@gmail.com](mailto:MPADBERG@my.lonestar.edu) |
-| 💼 | [linkedin.com/in/matteo-padberg-43a3b5405](https://www.linkedin.com/in/matteo-padberg-43a3b5405/) |
+| 💼 | [linkedin.com/in/m-padberg](https://www.linkedin.com/in/m-padberg/) |
 | 🌐 | [MPadberg-svg.github.io](https://MPadberg-svg.github.io) |
 | 📱 | [+1 (645) 202-7558](tel:+16452027558) |
 
